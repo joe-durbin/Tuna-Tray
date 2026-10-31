@@ -1,0 +1,50 @@
+# Tuna-Tray stations. Each top-level key is a category, shown as a submenu in the tray.
+# Changes apply the next time Tuna-Tray starts.
+
+Chill:
+  - name: Radio X Chilled
+    url: https://media-ice.musicradio.com/RadioXChilledMP3
+  - name: Smooth Chill
+    url: https://media-ssl.musicradio.com/ChillMP3
+  - name: Smooth London
+    url: http://media-the.musicradio.com/SmoothLondonMP3
+
+Classical:
+  - name: Classic FM
+    url: http://ice-sov.musicradio.com/ClassicFMMP3
+  - name: Classic FM Relax
+    url: http://media-the.musicradio.com/ClassicFM-M-Relax
+
+Dance:
+  - name: KISS
+    url: https://live-kiss.sharp-stream.com/kiss100.mp3
+
+News & Talk:
+  - name: LBC
+    url: http://media-sov.musicradio.com/LBCLondon
+
+Pop:
+  - name: Capital
+    url: http://media-ice.musicradio.com/CapitalMP3
+  - name: Heart London
+    url: http://ice-the.musicradio.com/HeartLondonMP3
+
+Retro:
+  - name: Radio X 00s
+    url: https://media-ice.musicradio.com/RadioX00sMP3
+  - name: Radio X 90s
+    url: https://media-ice.musicradio.com/RadioX90sMP3
+
+Rock:
+  - name: Radio X
+    url: http://media-the.musicradio.com/RadioXUK
+
+Sport:
+  - name: talkSPORT
+    url: https://radio.talksport.com/stream
+  - name: talkSPORT 2
+    url: https://talksport.live.stream.broadcasting.news/stream2
+
+Urban:
+  - name: Capital XTRA
+    url: http://media-the.musicradio.com/CapitalXTRALondonMP3

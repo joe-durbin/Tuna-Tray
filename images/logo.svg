@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="12 22 76 66" width="228" height="198">
+  <title>Tuna-Tray</title>
+  <defs>
+    <mask id="eye">
+      <rect x="0" y="0" width="100" height="100" fill="#fff"/>
+      <circle cx="58.6" cy="52.9" r="1.7" fill="#000"/>
+    </mask>
+  </defs>
+  <g fill="#1e88e5" mask="url(#eye)">
+    <ellipse cx="50" cy="55" rx="17.25" ry="10.35"/>
+    <polygon points="35.34,55 24.13,45.17 24.13,64.83"/>
+  </g>
+  <ellipse cx="50" cy="55" rx="30" ry="22" fill="none" stroke="#1e88e5" stroke-width="7" transform="rotate(-20 50 55)"/>
+</svg>
